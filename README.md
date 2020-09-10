@@ -8,4 +8,4 @@ The topics are organized into different documents:
 - `online_resources.md` contains links to useful websites
 
 # Contributing:
-Anyone who has a piece of advise is welcome to write it up and submit a pull request so it can be merged into the final document.
+Anyone who has a piece of advice is welcome to write it up and submit a pull request so that others can benefit from your knowledge.
