@@ -34,7 +34,7 @@ This text editor is probably the most beginner friendly commandline editor avail
 It comes pre-installed on lots of linux distributions and displays the short cuts you need to edit save find and replace etc on the bottom of the screen.
 While some people do not view it as a real text editor, it is actually pretty powerful and has lots more shortcuts beyond the ones that display on the screen by default.
 #### Vi / Vim
-This text editor comes pre-installed on my linux distributions and is a favorite among power users.
+This text editor comes pre-installed on almsot all linux distributions and is a favorite among power users.
 It has a steep learning curve, but those who master it claim it offers unparalled speed.
 If you want to learn about vim, you can run the command `vimtutor` which will walk you through the basics in an interactive way that builds upon itself
 
