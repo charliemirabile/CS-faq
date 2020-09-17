@@ -1,5 +1,6 @@
 # FAQ:
- - [What sort of computer should I get / which is best for CS majors?](#what-sort-of-computer-should-i-get--which-is-best-for-cs-majors)
+
+- [What sort of computer should I get / which is best for CS majors?](#what-sort-of-computer-should-i-get--which-is-best-for-cs-majors)
 
 ## What sort of computer should I get / which is best for CS majors?
 
